@@ -472,7 +472,7 @@ Please reach out via the [Contact page](https://kumbh-kavach.vercel.app/contact)
 Have questions, feedback, or collaboration ideas?
 
 - **Website**: [kumbh-kavach.vercel.app](https://kumbh-kavach.vercel.app)
-- **Email**: [Your Contact Email]
+- **Email**: kundan.u.s02@gmail.com
 - **GitHub Issues**: [Report bugs or request features](https://github.com/kundansury/Kumbh-Kavach/issues)
 
 ---
